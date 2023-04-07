@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AndroidSmartDevice</string>
+    <string name="TitleScan">Scan BLE en cours</string>
+    <string name="ButtonScanOn">On</string>
+    <string name="ble_scan_title_pause">Scan BLE en cours</string>
+    <string name="ble_scan_title_play">Lancer le scan</string>
+    <string name="Text">device_led_text</string>
+
+
+
+    <item name="click_button" type="id" />
+</resources>
